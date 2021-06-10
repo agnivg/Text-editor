@@ -5,6 +5,9 @@ A simple text-editor containing basic commands that allows us to write text docu
 This is a text-editor similar to notepad, built using python that contains three tabs in the menu-bar: File, Edit, View and many options in the Toolbar to help the user
 to customize their documents and after creating the document people can save them either as a pdf(.pdf) or as a text(.text) file.
 To use the text-editor, just run the python code(in GoDocs.py) in your local computer and the application will start.
+Just before executing the code, write these commands in the terminal:</br>
+pip install pyqt5</br>
+pip install docx2txt
 
 # UI of the application
 <img src="Screenshots/SS0.png"></img>
